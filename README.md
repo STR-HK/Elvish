@@ -1,4 +1,4 @@
-# elvish
+# Elvish
 
 A new Flutter project.
 
